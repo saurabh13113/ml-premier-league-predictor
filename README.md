@@ -8,6 +8,7 @@ Summer Project that uses SciKit Learn and pandas to analyze data of the Premier 
 This project uses machine learning to predict the outcomes of Premier League football matches. Specifically, it employs a Random Forest classifier to determine whether a team will win a given match based on historical match data, including factors such as the venue, opponent, time of day, and recent performance metrics.
 
 The project goes beyond just predicting individual match outcomes. It also simulates an entire season's worth of matches to produce a final league table, including the number of wins, losses, and draws for each team, and calculates the total points to rank the teams.
+![image](https://github.com/user-attachments/assets/aedad176-9884-41e0-b38a-cafaaf934831)
 
 ## Project Structure
 
