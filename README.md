@@ -60,6 +60,7 @@ The `matches.csv` file includes historical data on Premier League matches. Key c
 - **`fk`**: Free kicks taken.
 - **`pk`**: Penalties taken.
 - **`pkatt`**: Penalty attempts.
+![image](https://github.com/user-attachments/assets/6d992069-bd7b-4b66-8683-0c8ad232df87)
 
 ## Script Breakdown
 
